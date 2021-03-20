@@ -3,7 +3,7 @@ package lesson1.HomeWork;
 public class HomeWorkLesson1 {
     public static void main(String[] args) {
         ex2();
-        ex3(10,5,12,4);
+        ex3(10,5,12,4); ex3(23,12,96,6);
         ex4(12,5); ex4(15, 17);
         ex5(5); ex5(-1); ex5(0);
         ex6(5); ex6(-1); ex6(0);
